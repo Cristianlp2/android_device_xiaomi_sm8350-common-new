@@ -31,6 +31,7 @@ persist.log.tag.CamX=S
 persist.log.tag.SYNX-UMD=S
 persist.log.tag.CHIUSECASE=S
 persist.log.tag.OpenGLRenderer=S
+persist.log.tag.ResourcesCompat=S
 
 # LMK properties
 ro.lmk.kill_heaviest_task=true
