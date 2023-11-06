@@ -6,4 +6,4 @@ ro.egl.blobcache.multifile=true
 ro.egl.blobcache.multifile_limit=33554432
 
 # MTE
-arm64.memtag.process.system_server=off
+persist.arm64.memtag.system_server=off
