@@ -12,8 +12,8 @@ debug.sf.disable_backpressure=1
 debug.sf.enable_hwc_vds=1
 
 # Fling velocities
-ro.min.fling_velocity=160 
-ro.max.fling_velocity=20000
+ro.min.fling_velocity=70
+ro.max.fling_velocity=21000
 
 # IMS
 persist.dbg.volte_avail_ovr=1
